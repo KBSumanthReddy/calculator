@@ -1,0 +1,36 @@
+body {
+    background-color: maroon;
+}
+.heading {
+    font-size: 8vh;
+    text-align: center;
+    color: white;
+    height: 15vh;
+    width: 70vw;
+    margin: 0vh 15vw 0vh 15vw;
+}
+#answer{
+    background-color: gainsboro;
+    font-size: 8vh;
+    color: black;
+    height: 15vh;
+    width: 70vw;
+    margin: 0vh 15vw 0vh 15vw;
+    border-radius: 10px;
+}
+.buttons {
+    background-color: black;
+    width: 70vw;
+    height: 54vh;
+    margin: 5vh 15vw 0vh 15vw;
+    border-radius: 20px;
+}
+button {
+    cursor: pointer;
+    border-radius: 20px;
+    margin: 0.5vh;
+    width: 13.25vw;
+    height: 12vh;
+    font-size: 5vh;
+    text-align: center;
+}
